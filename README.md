@@ -34,3 +34,5 @@
 
 <h3 align="center">💰 GIVE ME ALL YOUR MONEY 💸</h3>
 <p align="center"><a href="https://ko-fi.com/kosro"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="GIVE ME ALL YOUR MONEY" /></a></p>
+
+<p align="right"><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="special-treat.gif" width="50"></a></p>

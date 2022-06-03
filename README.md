@@ -1,6 +1,4 @@
-<h1 align="center">Hi 👋, I'm Robert</h1>
-<h3 align="center">I do computer stuff.</h3>
-
+<p align="center"><img src="hello.gif" width="100%"></p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=robert-k&label=Congrats!%20%E2%9C%A8%20You're%20number&color=d1159f&style=flat-square" alt="robert-k" /> </p>
 
 ---

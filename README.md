@@ -13,11 +13,13 @@
 
 - <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" width="20" /> Consume [my content](https://www.youtube.com/c/Kosro) on [YouTube](https://www.youtube.com/c/Kosro)
 
+- <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/reddit.svg" alt="Reddit" width="20" /> Stalk me on [Reddit](https://www.reddit.com/u/kosro_de?sort=top)
+
 - 💬 Ask me about **shaders, music, iot and vue**
 
 - 📫 Say hello at hello@kosro.de
 
-- ⚡ Fun fact **I have more instruments than finished songs**
+- ⚡ Fun fact **my left foot is about 1 EU size larger than the right one**
 
 ---
 

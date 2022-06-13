@@ -1,4 +1,4 @@
-<p align="center"><img src="hello.gif" width="100%"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/Robert-K/Robert-K/main/hello.gif" width="100%"></p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=robert-k&label=Congrats!%20%E2%9C%A8%20You're%20number&color=d1159f&style=flat-square" alt="robert-k" /> </p>
 
 ---
@@ -35,4 +35,4 @@
 <h3 align="center">💰 GIVE ME ALL YOUR MONEY 💸</h3>
 <p align="center"><a href="https://ko-fi.com/kosro"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="GIVE ME ALL YOUR MONEY" /></a></p>
 
-<p align="right"><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="special-treat.gif" width="50"></a></p>
+<p align="right"><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://github.com/Robert-K/Robert-K/raw/main/special-treat.gif" width="50"></a></p>

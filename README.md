@@ -1,4 +1,4 @@
-<p align="center"><img src="https://raw.githubusercontent.com/Robert-K/Robert-K/main/hello.gif" width="100%"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/Robert-K/Robert-K/main/hello.gif" width="70%"></p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=robert-k&label=Congrats!%20%E2%9C%A8%20You're%20number&color=d1159f&style=flat-square" alt="robert-k" /> </p>
 
 ---

@@ -1,15 +1,27 @@
 <p align="center"><img src="https://raw.githubusercontent.com/Robert-K/Robert-K/main/hello.gif" width="70%"></p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=robert-k&label=Congrats!%20%E2%9C%A8%20You're%20number&color=d1159f&style=flat-square" alt="robert-k" /> </p>
+<p align="center">
+  <a href="https://github.com/Robert-K?tab=followers">
+    <img src="https://img.shields.io/github/followers/Robert-K?style=social" alt="GitHub Followers">
+  </a>
+  <a href="https://github.com/Robert-K?tab=repositories&type=source">
+    <img src="https://img.shields.io/github/stars/Robert-K?affiliations=OWNER&style=social" alt="GitHub User's stars">
+  </a>
+</p>
+
+<p align="center"><a href="https://ko-fi.com/kosro"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="GIVE ME ALL YOUR MONEY" /></a></p>
 
 ---
 
-- 🔭 I’m currently working on [a VR mod for Deep Rock Galactic](https://github.com/NicolasAubinet/virtual-rock-galactic)
+- 🔭 I’m currently working on <b>A rotary phone bluetooth conversion</b> & <b>A full room Ambilight solution using WLED</b>
 
-- 🌱 I’m currently learning **react**
+- 🌱 I’m currently learning **C**
 
 - 🤝 I’m looking for help with [gpu-particles v2](https://github.com/Robert-K/gpu-particles/tree/v2)
 
 - 👨‍💻 Check out my website [Kosro.de](https://kosro.de)
+
+- <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/spotify.svg" alt="YouTube" width="20" /> Listen to [my noises](https://spotify.kosro.de) on [Spotify](https://www.spotify.kosro.de)
 
 - <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" width="20" /> Consume [my content](https://www.youtube.com/c/Kosro) on [YouTube](https://www.youtube.com/c/Kosro)
 
@@ -31,8 +43,5 @@
 <br clear="left"/>
 
 ---
-
-<h3 align="center">💰 GIVE ME ALL YOUR MONEY 💸</h3>
-<p align="center"><a href="https://ko-fi.com/kosro"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="GIVE ME ALL YOUR MONEY" /></a></p>
 
 <p align="right"><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://github.com/Robert-K/Robert-K/raw/main/special-treat.gif" width="50"></a></p>

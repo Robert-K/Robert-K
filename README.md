@@ -21,7 +21,7 @@
 
 - 👨‍💻 Check out my website [Kosro.de](https://kosro.de)
 
-- <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/spotify.svg" alt="YouTube" width="20" /> Listen to [my noises]([https://spotify.kosro.de](https://open.spotify.com/artist/5vA5oxYbi3BCryMa8jh3xr?si=jkWu0Ny-RtyxGLQl6AqhGQ&nd=1)) on [Spotify]([https://www.spotify.kosro.de](https://open.spotify.com/artist/5vA5oxYbi3BCryMa8jh3xr?si=jkWu0Ny-RtyxGLQl6AqhGQ&nd=1))
+- <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/spotify.svg" alt="YouTube" width="20" /> Listen to [my noises](https://open.spotify.com/artist/5vA5oxYbi3BCryMa8jh3xr) on [Spotify]( https://open.spotify.com/artist/5vA5oxYbi3BCryMa8jh3xr)
 
 - <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" width="20" /> Consume [my content](https://www.youtube.com/c/Kosro) on [YouTube](https://www.youtube.com/c/Kosro)
 

@@ -1,12 +1,12 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=robert-k&label=Visitors" alt="robert-k">
 
-<h1 align="center">
+<h2 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Robert...;Nice+to+meet+you!;Have+a+look+around!&center=true&size=30">
   </a>
   <br>
   <code>musician // dj // artist // coder</code>
-</h1>
+</h2>
 
 <br>
 

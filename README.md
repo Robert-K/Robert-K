@@ -6,19 +6,6 @@
   </a>
 </h1>
 
-<p align="center">
-  <a href="https://github.com/Robert-K?tab=followers">
-    <img src="https://img.shields.io/github/followers/Robert-K?style=social" alt="GitHub Followers">
-  </a>
-  <a href="https://github.com/Robert-K?tab=repositories&type=source">
-    <img src="https://img.shields.io/github/stars/Robert-K?affiliations=OWNER&style=social" alt="GitHub User's stars">
-  </a>
-</p>
-
-<p align="center"><a href="https://ko-fi.com/kosro"><img align="center" src="https://ko-fi.com/img/githubbutton_sm.svg"/></a></p>
-
----
-
 - 🔭 I’m currently working on <b>A rotary phone bluetooth conversion</b> & <b>A full room Ambilight solution using WLED</b>
 
 - 🌱 I’m currently learning **C**
@@ -38,5 +25,37 @@
 - 📫 Say hello at hello@kosro.de
 
 - ⚡ Fun fact **my left foot is about 1 EU size larger than the right one**
+
+---
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<p align=center>
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=robert-k&show_icons=true&theme=dark&hide_title=true&hide_rank=true"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=robert-k&show_icons=true&hide_title=true&hide_rank=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=robert-k&show_icons=true&hide_title=true&hide_rank=true" />
+  </picture>
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=robert-k&show_icons=true&theme=dark&layout=compact"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/apitop-langs?username=robert-k&show_icons=true&layout=compact"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=robert-k&show_icons=true&layout=compact" />
+  </picture>
+</p>
+
+<br>
+
+<p align="center"><a href="https://ko-fi.com/kosro"><img align="center" src="https://ko-fi.com/img/githubbutton_sm.svg"/></a></p>
 
 <p align="right"><a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://github.com/Robert-K/Robert-K/raw/main/special-treat.gif" width="50"></a></p>

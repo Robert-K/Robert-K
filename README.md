@@ -4,7 +4,11 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Robert...;Nice+to+meet+you!;Have+a+look+around!&center=true&size=30">
   </a>
+  <br>
+  <code>musician // dj // artist // coder</code>
 </h1>
+
+<br>
 
 - 🔭 I’m currently working on <b>A rotary phone bluetooth conversion</b> & <b>A full room Ambilight solution using WLED</b>
 
@@ -18,7 +22,9 @@
 
 - <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" width="20" /> Consume [my content](https://www.youtube.com/c/Kosro) on [YouTube](https://www.youtube.com/c/Kosro)
 
-- <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/reddit.svg" alt="Reddit" width="20" /> Stalk me on [Reddit](https://www.reddit.com/u/kosro_de?sort=top)
+- <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/reddit.svg" alt="Reddit" width="20" /> Stalk me on [Reddit](https://instagram.com/kosro.de)
+
+- <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="20" /> Follow my feed on [Instagram](https://www.reddit.com/u/kosro_de?sort=top)
 
 - 💬 Ask me about **shaders, music, iot and vue**
 
@@ -26,7 +32,10 @@
 
 - ⚡ Fun fact **my left foot is about 1 EU size larger than the right one**
 
+<br>
+
 ---
+
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <p align=center>

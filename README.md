@@ -20,7 +20,7 @@
 
 - <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/spotify.svg" alt="Spotify" width="20" /> Listen to [my noises](https://open.spotify.com/artist/5vA5oxYbi3BCryMa8jh3xr) on [Spotify]( https://open.spotify.com/artist/5vA5oxYbi3BCryMa8jh3xr)
 
-- <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in.svg" alt="LinkedIn" width="20" /> Connect with me on [LinkedIn](https://www.linkedin.com/in/robert-kossessa-4189872b2/)
+- <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="20" /> Connect with me on [LinkedIn](https://www.linkedin.com/in/robert-kossessa-4189872b2/)
 
 - <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" width="20" /> Consume [my content](https://www.youtube.com/c/Kosro) on [YouTube](https://www.youtube.com/c/Kosro)
 

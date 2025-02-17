@@ -24,9 +24,9 @@
 
 - <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" width="20" /> Consume [my content](https://www.youtube.com/c/Kosro) on [YouTube](https://www.youtube.com/c/Kosro)
 
-- <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/reddit.svg" alt="Reddit" width="20" /> Stalk me on [Reddit](https://instagram.com/kosro.de)
+- <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/reddit.svg" alt="Reddit" width="20" /> Stalk me on [Reddit](https://www.reddit.com/u/kosro_de?sort=top)
 
-- <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="20" /> Follow my feed on [Instagram](https://www.reddit.com/u/kosro_de?sort=top)
+- <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="20" /> Follow my feed on [Instagram](https://instagram.com/kosro.de)
 
 - 💬 Ask me about **shaders, music, iot and vue**
 

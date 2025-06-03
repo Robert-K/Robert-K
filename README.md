@@ -10,9 +10,9 @@
 
 <br>
 
-- 🔭 I’m currently working on <b>A rotary phone bluetooth conversion</b> & <b>A full room Ambilight solution using WLED</b>
+- 🔭 I’m currently working on <b>a mesh-boolean-based destructible terrain system</b> & <b>a WASI-based coding game</b>
 
-- 🌱 I’m currently learning **C**
+- 🌱 I’m currently learning **modern C++**
 
 - 🤝 I’m looking for help with [gpu-particles v2](https://github.com/Robert-K/gpu-particles/tree/v2)
 
@@ -28,7 +28,7 @@
 
 - <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" width="20" /> Follow my feed on [Instagram](https://instagram.com/kosro.de)
 
-- 💬 Ask me about **shaders, music, iot and vue**
+- 💬 Ask me about **shaders, music, iot and svelte**
 
 - 📫 Say hello at hello@kosro.de
 
